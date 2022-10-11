@@ -1,5 +1,14 @@
 creating hailhydra within hydra with text file hail hydra which is in 21bq1a4220-2.1- repo that also in 21bq1a4220-2.1- local repo
 ufffff
+
+
+
+
+ALL THESE LINES ARE THE COMMANDS THAT I USED TO UPLOAD THIS!!!
+
+
+
+
 Microsoft Windows [Version 10.0.22000.978]
 (c) Microsoft Corporation. All rights reserved.
 
