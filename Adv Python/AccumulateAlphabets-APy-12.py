@@ -1,4 +1,4 @@
-#AIM : Accumulate all words into the respective alphabet buckets from the given text file.
+'''AIM : Accumulate all words into the respective alphabet buckets from the given text file.'''
 
 filename=input('Enter a file name : ')
 f=open(filename,'r')
@@ -13,3 +13,16 @@ for word in f.read().split():
             Alphabet_Buckets[temp[0]].append(temp)
 print(Alphabet_Buckets)
 f.close()
+
+'''
+Text file name : sample
+
+content in file:
+wake up to reality . nothing goes as planned in  this accursed world.
+
+
+Output:
+Enter a file name : sample.txt
+{'w': ['wake', 'world.'], 'u': ['up'], 't': ['to', 'this'], 'r': ['reality'],
+'n': ['nothing'], 'g': ['goes'], 'a': ['as', 'accursed'], 'p': ['planned'], 'i': ['in']}
+'''
