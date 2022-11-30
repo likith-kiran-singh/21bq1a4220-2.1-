@@ -1,3 +1,7 @@
+/*
+ AIM: Write a java program that correctly implements the 
+ producer-consumer problem using the concept of inter-thread communication.
+ */
 public class Expt14 {
     public class Main {
         public static void main(String args[]) {
@@ -9,3 +13,7 @@ public class Expt14 {
     }
     
 }
+/*
+Output :
+
+ */
